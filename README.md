@@ -1,2 +1,2 @@
 # HelloWorld
-My first Repository
+I am John Mulligan. I am a student at Neumont
