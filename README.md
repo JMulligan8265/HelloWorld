@@ -1,2 +1,2 @@
 # HelloWorld
-I am John Mulligan. I am a student at Neumont
+I am John Mulligan
